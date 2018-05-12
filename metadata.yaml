@@ -29,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/512
     wikipedia: http://en.wikipedia.org/wiki/Lloyd_Osbourne
 description: 'Translation and abridgement of "The Wrecker," ebook #1024.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43788#Vrakets-hemmelighet
 gutenberg_issued: '2013-09-21'
 gutenberg_type: Text
 identifiers:
