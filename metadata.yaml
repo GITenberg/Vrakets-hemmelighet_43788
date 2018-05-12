@@ -1,0 +1,46 @@
+_repo: Vrakets-hemmelighet_43788
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Harbitz, Alf
+    birthdate: 1880
+    deathdate: 1964
+    gutenberg_agent_id: '42405'
+    url: http://www.gutenberg.org/2009/agents/42405
+covers:
+- cover_type: archival
+  image_path: 43788-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+  - agent_name: Osbourne, Lloyd
+    aliases:
+    - Osborne, Lloyd
+    - Osbourne, Samuel Lloyd
+    birthdate: 1868
+    deathdate: 1947
+    gutenberg_agent_id: '512'
+    url: http://www.gutenberg.org/2009/agents/512
+    wikipedia: http://en.wikipedia.org/wiki/Lloyd_Osbourne
+description: 'Translation and abridgement of "The Wrecker," ebook #1024.'
+gutenberg_issued: '2013-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43788'
+language: 'no'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Treasure troves -- Fiction'
+- !lcsh 'Shipwrecks -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Avarice -- Fiction'
+title: Vrakets hemmelighet
+url: http://www.gutenberg.org/ebooks/43788
